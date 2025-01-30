@@ -38,12 +38,12 @@ This project demonstrates **unit testing** in **JavaScript** using the **Jest** 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/shivaniyadav06/AutomatedCrawlingProject
+    git clone git@github.com:shivaniyadav06/js_unit_testing_assignment.git
     ```
 
 2. **Navigate into the project folder**:
     ```bash
-    cd <YOUR_REPO>
+    cd js_unit_testing_assignment
     ```
 
 3. **Install dependencies**:
